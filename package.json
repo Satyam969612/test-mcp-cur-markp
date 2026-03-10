@@ -1,6 +1,6 @@
 {
   "name": "@blankstate/mcp",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "Blankstate MCP Server - Protocol-based validation for autonomous AI agents",
   "author": "blankstate [mehdic] : <hello@blankstate.ai>",
   "license": "MIT",
